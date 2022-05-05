@@ -2,21 +2,21 @@
   "plans": [
     {
       "id": 1,
-      "title": "Avulso",
-      "price": 50,
-      "amount": "50 Moedas"
+      "title": "Básico",
+      "price": 89,
+      "amount": "3 provas disponiveis"
     },
     {
       "id": 2,
-      "title": "Mensal",
-      "price": 200,
-      "amount": "250 Moedas/ Mensal"
+      "title": "Plus",
+      "price": 150,
+      "amount": "10 provas disponiveis"
     },
     {
       "id": 3,
-      "title": "Anual",
-      "price": 2000,
-      "amount": "600 Moedas/ Mensal"
+      "title": "Corporativo",
+      "price": 0,
+      "amount": "Analise de caso"
     }
   ],
   "proofs": [
