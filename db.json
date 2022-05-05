@@ -1,87 +1,88 @@
 {
-  "plans": [
-    {
-      "id": 1,
-      "title": "Básico",
-      "price": 89,
-      "amount": "3 provas disponiveis"
-    },
-    {
-      "id": 2,
-      "title": "Plus",
-      "price": 150,
-      "amount": "10 provas disponiveis"
-    },
-    {
-      "id": 3,
-      "title": "Corporativo",
-      "price": 0,
-      "amount": "Analise de caso"
-    }
-  ],
-  "proofs": [
-    {
-      "id": 1,
-      "date": "2022-05-05T20:11:15.529Z",
-      "document": "UOL - Seu universo online.png",
-      "requested": "Fabiano Nagamatsu",
-      "origin": "Extensão",
-      "assignType": "Eletronicamente",
-      "hash": "59195c6c541c8307f1da2d1e768d6f2280c984df217ad5f4c64c3542b04111a4",
-      "status": "generate"
-    }
-    {
-      "id": 2,
-      "date": "2022-04-27T20:11:15.529Z",
-      "document": "facebook.png",
-      "requested": "Fabiano Nagamatsu",
-      "origin": "Extensão",
-      "assignType": "Eletronicamente",
-      "hash": "59195c6c541c8307f1da2d1e768d6f2280c984df217ad5f4c64c3542b04111a4",
-      "status": "generating"
-    },
-    {
-      "id": 3,
-      "date": "2022-03-10T20:11:15.529Z",
-      "document": "Print_whatsapp.png",
-      "requested": "Fabiano Nagamatsu",
-      "origin": "Extensão",
-      "assignType": "Eletronicamente",
-      "hash": "e072588d2eff0da6ee952cf85f37a60222805035c23398ef5d9a22830d623773",
-      "status": "generate"
-    },
-    {
-      "id": 4,
-      "date": "2022-03-20T20:11:15.529Z",
-      "document": "Contrato de Prestação de Serviço.jpg",
-      "requested": "Fabiano Nagamatsu",
-      "origin": "Upload",
-      "assignType": "Eletronicamente",
-      "hash": "bcd06ce364251e1c451fae6f9cd26cc8867cab73932c74752e6c81fa12d4c6c0",
-      "status": "generate"
-    }
-  ],
-  "user": {
-    "id": "77fba24c-ae1f-11ec-b909-0242ac120002",
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c",
-    "name": "Fabiano",
-    "lastname": "Nagamatsu",
-    "email": "naga@gmail.com",
-    "birthday": "00/00/1234",
-    "documents": [{ "number": "000.000.000-00", "type": "CPF" }],
-    "address": [
+    "plans": [
       {
-        "country": "Brasil",
-        "state": "MS",
-        "city": "Dourados",
-        "cep": "79802-030",
-        "neighborhood": "Centro",
-        "address": "Rua Cuiabá",
-        "complement": ""
+        "id": 1,
+        "title": "Básico",
+        "price": 89,
+        "amount": "3 provas disponiveis"
+      },
+      {
+        "id": 2,
+        "title": "Plus",
+        "price": 150,
+        "amount": "10 provas disponiveis"
+      },
+      {
+        "id": 3,
+        "title": "Corporativo",
+        "price": 0,
+        "amount": "Analise de caso"
       }
     ],
-    "phones": [{ "number": "+55 67991644756" }],
-    "credits": 10,
-    "avatar": "https://tiinside.com.br/wp-content/uploads/2022/02/fabianio.jpg"
+    "proofs": [
+      {
+        "id": 1,
+        "date": "2022-05-05T20:11:15.529Z",
+        "document": "UOL - Seu universo online.png",
+        "requested": "Fabiano Nagamatsu",
+        "origin": "Extensão",
+        "assignType": "Eletronicamente",
+        "hash": "59195c6c541c8307f1da2d1e768d6f2280c984df217ad5f4c64c3542b04111a4",
+        "status": "generate"
+      },
+      {
+        "id": 2,
+        "date": "2022-04-27T20:11:15.529Z",
+        "document": "facebook.png",
+        "requested": "Fabiano Nagamatsu",
+        "origin": "Extensão",
+        "assignType": "Eletronicamente",
+        "hash": "59195c6c541c8307f1da2d1e768d6f2280c984df217ad5f4c64c3542b04111a4",
+        "status": "generating"
+      },
+      {
+        "id": 3,
+        "date": "2022-03-10T20:11:15.529Z",
+        "document": "Print_whatsapp.png",
+        "requested": "Fabiano Nagamatsu",
+        "origin": "Extensão",
+        "assignType": "Eletronicamente",
+        "hash": "e072588d2eff0da6ee952cf85f37a60222805035c23398ef5d9a22830d623773",
+        "status": "generate"
+      },
+      {
+        "id": 4,
+        "date": "2022-03-20T20:11:15.529Z",
+        "document": "Contrato de Prestação de Serviço.jpg",
+        "requested": "Fabiano Nagamatsu",
+        "origin": "Upload",
+        "assignType": "Eletronicamente",
+        "hash": "bcd06ce364251e1c451fae6f9cd26cc8867cab73932c74752e6c81fa12d4c6c0",
+        "status": "generate"
+      }
+    ],
+    "user": {
+      "id": "77fba24c-ae1f-11ec-b909-0242ac120002",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c",
+      "name": "Fabiano",
+      "lastname": "Nagamatsu",
+      "email": "naga@gmail.com",
+      "birthday": "00/00/1234",
+      "documents": [{ "number": "000.000.000-00", "type": "CPF" }],
+      "address": [
+        {
+          "country": "Brasil",
+          "state": "MS",
+          "city": "Dourados",
+          "cep": "79802-030",
+          "neighborhood": "Centro",
+          "address": "Rua Cuiabá",
+          "complement": ""
+        }
+      ],
+      "phones": [{ "number": "+55 67991644756" }],
+      "credits": 10,
+      "avatar": "https://tiinside.com.br/wp-content/uploads/2022/02/fabianio.jpg"
+    }
   }
-}
+  
