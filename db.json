@@ -22,6 +22,16 @@
   "proofs": [
     {
       "id": 1,
+      "date": "2022-05-05T20:11:15.529Z",
+      "document": "UOL - Seu universo online.png",
+      "requested": "Fabiano Nagamatsu",
+      "origin": "Extensão",
+      "assignType": "Eletronicamente",
+      "hash": "59195c6c541c8307f1da2d1e768d6f2280c984df217ad5f4c64c3542b04111a4",
+      "status": "generate"
+    }
+    {
+      "id": 2,
       "date": "2022-04-27T20:11:15.529Z",
       "document": "facebook.png",
       "requested": "Fabiano Nagamatsu",
@@ -31,7 +41,7 @@
       "status": "generating"
     },
     {
-      "id": 2,
+      "id": 3,
       "date": "2022-03-10T20:11:15.529Z",
       "document": "Print_whatsapp.png",
       "requested": "Fabiano Nagamatsu",
@@ -41,7 +51,7 @@
       "status": "generate"
     },
     {
-      "id": 3,
+      "id": 4,
       "date": "2022-03-20T20:11:15.529Z",
       "document": "Contrato de Prestação de Serviço.jpg",
       "requested": "Fabiano Nagamatsu",
@@ -50,16 +60,6 @@
       "hash": "bcd06ce364251e1c451fae6f9cd26cc8867cab73932c74752e6c81fa12d4c6c0",
       "status": "generate"
     },
-    {
-      "id": 4,
-      "date": "2022-05-05T20:11:15.529Z",
-      "document": "UOL - Seu universo online.jpg",
-      "requested": "Fabiano Nagamatsu",
-      "origin": "Extensão",
-      "assignType": "Eletronicamente",
-      "hash": "59195c6c541c8307f1da2d1e768d6f2280c984df217ad5f4c64c3542b04111a4",
-      "status": "generate"
-    }
   ],
   "user": {
     "id": "77fba24c-ae1f-11ec-b909-0242ac120002",
